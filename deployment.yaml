@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: ikoral/k8s-sample-gitops:1
+      - image: ikoral/k8s-sample-gitops:4
         name: flaskdemo
         resources: {}
 status: {}
